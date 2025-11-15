@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="https://github.com/FokKwan/huojun.github.io/blob/master/files/Academic_CV.pdf">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my  detailed <a href="https://github.com/FokKwan/huojun.github.io/blob/master/files/Academic_CV.pdf">CV</a>.</div>
 {% endif %}
 
 
