@@ -14,10 +14,10 @@ My current research focus on human-centered wearable rehabilitation assistive ro
 Featured Articles
 ======
 Some featured works are selected as follows:
-- Jun Huo, Jian Huang<sup>∗</sup>, Jie Zuo, Bo Yang, Zhongzheng Fu, Xi Li, and Samer Mohammed. Innovative Design of Multi-functional Supernumerary Robotic Limbs with Ellipsoid Workspace Optimization. <span style="color:red;">*IEEE Transactions on Robotics*</span>, vol. 41, pp. 4699-4718, 2025.
-- Jun Huo, Kehan Xu, Chengyao Li, Yu Cao, Jie Zuo, Xinxing Chen and Jian Huang<sup>∗</sup>. Variable Impedance Control for Floating-Base Supernumerary Robotic Leg in Walking Assistance. IEEE Robotics and Automation Letters, vol. 10, no. 9, pp. 8698-8705, Sept. 2025.
-- Jie Zuo<sup>#</sup>, Jun Huo<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>∗</sup>. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 16591-16602, 2025.
-- Jun Huo, Hongge Ru, Bo Yang, Xingjian Chen, Xi Li and Jian Huang<sup>∗</sup>. Air-Chamber-Based Soft Six-Axis Force/Torque Sensor for Human–Robot Interaction. IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024, Art no. 9501612.
+- **Jun Huo**, Jian Huang<sup>∗</sup>, Jie Zuo, Bo Yang, Zhongzheng Fu, Xi Li, and Samer Mohammed. Innovative Design of Multi-functional Supernumerary Robotic Limbs with Ellipsoid Workspace Optimization. <span style="color:red;">*IEEE Transactions on Robotics*</span>, vol. 41, pp. 4699-4718, 2025.
+- **Jun Huo**, Kehan Xu, Chengyao Li, Yu Cao, Jie Zuo, Xinxing Chen and Jian Huang<sup>∗</sup>. Variable Impedance Control for Floating-Base Supernumerary Robotic Leg in Walking Assistance. <span style="color:red;">*IEEE Robotics and Automation Letters*</span>, vol. 10, no. 9, pp. 8698-8705, Sept. 2025.
+- Jie Zuo<sup>#</sup>, **Jun Huo**<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>∗</sup>. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. <span style="color:red;">*IEEE Transactions on Automation Science and Engineering*</span>, vol. 22, pp. 16591-16602, 2025.
+- **Jun Huo**, Hongge Ru, Bo Yang, Xingjian Chen, Xi Li and Jian Huang<sup>∗</sup>. Air-Chamber-Based Soft Six-Axis Force/Torque Sensor for Human–Robot Interaction. <span style="color:red;">*IEEE Transactions on Instrumentation and Measurement*</span>, vol. 73, pp. 1-12, 2024, Art no. 9501612.
 
 Getting started
 ======
