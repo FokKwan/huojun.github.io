@@ -7,20 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Jun Huo received the B.S. degree in mechanical engineering from Northeastern University, Shenyang, China, in 2018 and the Ph.D. degree in control science and engineering from the Huazhong University of Science and Technology, Wuhan, China, in 2025. His current research interests include rehabilitation assistive robotic systems (wearable robots) and medical robots.
+Jun Huo received the B.S. degree in mechanical engineering from Northeastern University, Shenyang, China, in 2018 and the Ph.D. degree in control science and engineering from the Huazhong University of Science and Technology, Wuhan, China, in 2025. My current research interests include rehabilitation assistive robotic systems (wearable robots) and medical robots.
 
-You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My current research focus on human-centered wearable rehabilitation assistive robot, including supernumerary robotic limb (SRL), exoskeletons and other bio-inspired robots. My research lies in the combination of mechanism design, optimization, and learning-based control.
 
-A data-driven personal website
+Featured Articles
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+Some featured works are selected as follows:
+- Jun Huo, Jian Huang∗, Jie Zuo, Bo Yang, Zhongzheng Fu, Xi Li, and Samer Mohammed. Innovative Design of Multi-functional Supernumerary Robotic Limbs with Ellipsoid Workspace Optimization. <i>IEEE Transactions on Robotics<i>, vol. 41, pp. 4699-4718, 2025.
+- Jun Huo, Kehan Xu, Chengyao Li, Yu Cao, Jie Zuo, Xinxing Chen and Jian Huang∗. Variable Impedance Control for Floating-Base Supernumerary Robotic Leg in Walking Assistance. <i>IEEE Robotics and Automation Letters<i>, vol. 10, no. 9, pp. 8698-8705, Sept. 2025.
+- Jie Zuo#, Jun Huo#, Xiling Xiao, Yanzhao Zhang and Jian Huang∗. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 16591-16602, 2025.
+- Jun Huo, Hongge Ru, Bo Yang, Xingjian Chen, Xi Li and Jian Huang∗. Air-Chamber-Based Soft Six-Axis Force/Torque Sensor for Human–Robot Interaction. IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-12, 2024, Art no. 9501612.
 
 Getting started
 ======
