@@ -3,7 +3,7 @@ title: "Human-robot Coordination Control for Sit-to-Stand Assistance in Hemipare
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Jie Zuo, Jun Huo, Xiling Xiao, Yanzhao Zhang and Jian Huang'
+excerpt: 'Jie Zuo<sup>#</sup>, Jun Huo<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang'
 date: 11 June 2025
 venue: 'IEEE Transactions on Automation Science and Engineering'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
