@@ -19,17 +19,10 @@ Some featured works are selected as follows:
 - Jie Zuo<sup>#</sup>, **Jun Huo**<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>∗</sup>. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. <span style="color:red;">*IEEE Transactions on Automation Science and Engineering*</span>, vol. 22, pp. 16591-16602, 2025.
 - **Jun Huo**, Hongge Ru, Bo Yang, Xingjian Chen, Xi Li and Jian Huang<sup>∗</sup>. Air-Chamber-Based Soft Six-Axis Force/Torque Sensor for Human–Robot Interaction. <span style="color:red;">*IEEE Transactions on Instrumentation and Measurement*</span>, vol. 73, pp. 1-12, 2024, Art no. 9501612.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about me please e-mail to fok_kwan@163.com.
