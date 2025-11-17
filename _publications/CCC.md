@@ -1,7 +1,7 @@
 ---
 title: "Head-free, Human Gaze-driven Assistive Robotic System for Reaching and Grasping"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'Bo Yang, Jian Huang, Menglin Sun, Jun Huo, Xiaolong Li and Caihua Xiong'
 date: 15 July 2021
