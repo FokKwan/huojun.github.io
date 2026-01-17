@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Jun Huo received the B.S. degree in mechanical engineering from Northeastern University, Shenyang, China, in 2018 and the Ph.D. degree in control science and engineering from the Huazhong University of Science and Technology (Supervisor: [Jian Huang](http://faculty.hust.edu.cn/huangjian2/zh_CN/index/1713465/list/index.htm)), Wuhan, China, in 2025. My current research interests include rehabilitation assistive robotic systems (wearable robots) and medical robots.
+Jun Huo received the B.S. degree in mechanical engineering from Northeastern University, Shenyang, China, in 2018 and the Ph.D. degree in control science and engineering from the Huazhong University of Science and Technology (Supervisor: [Jian Huang](http://faculty.hust.edu.cn/huangjian2/zh_CN/index/1713465/list/index.htm)), Wuhan, China, in 2025. 
+Currently, he is a Postdoctoral research at the Department of Mechanical and Automation Engineering at the Chinese University of Hong Kong. 
+His current research interests include rehabilitation assistive robotic systems (wearable robots) and medical robots.
 
 My current research focus on human-centered wearable rehabilitation assistive robot, including supernumerary robotic limb (SRL), exoskeletons and other bio-inspired robots. My research lies in the combination of mechanism design, optimization, and learning-based control.
 
