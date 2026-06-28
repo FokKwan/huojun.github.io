@@ -1,152 +1,143 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jun Huo",
+    "label": "Research Associate",
+    "email": "fok_kwan@163.com",
+    "phone": "+86-13516041015",
+    "website": "https://fokkwan.github.io/huojun.github.io/",
+    "summary": "Research Associate at the Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong. Research interests include flexible medical robots, human-centered wearable rehabilitation assistive robots, supernumerary robotic limbs, exoskeletons, mechanism design, optimization, and learning-based control.",
     "location": {
-      "address": "",
+      "address": "2/F, Academic Building No. 1, CUHK",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Hong Kong",
+      "countryCode": "China",
+      "region": "Shatin, New Territories"
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=zh-CN&user=fjzIsUkAAAAJ"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "username": "0000-0001-8122-1806",
+        "url": "https://orcid.org/0000-0001-8122-1806"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "FokKwan",
+        "url": "https://github.com/FokKwan"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "The Chinese University of Hong Kong",
+      "position": "Research Associate",
+      "startDate": "April 2026",
+      "endDate": "March 2027",
+      "summary": "Department of Mechanical and Automation Engineering; postdoctoral supervisor: Prof. Shing Shin Cheng.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Huazhong University of Science and Technology",
+      "area": "Ph.D. in Control Science and Engineering",
+      "studyType": "Combined master's and doctoral program",
+      "startDate": "Sept. 2018",
+      "endDate": "Dec. 2025",
       "gpa": null,
-      "courses": []
+      "courses": [
+        "Advisor: Prof. Jian Huang",
+        "Dissertation: Research on Multi-functional Universal Supernumerary Robotic Limb for Hemiplegic Patients Motion Assistance"
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Northeastern University",
+      "area": "B.E. in Mechanical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "Oct. 2014",
+      "endDate": "June 2018",
       "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "courses": [
+        "Advisor: Prof. Zhiguo Lu",
+        "Thesis: Structural Design and Analysis of Hybrid Drive Humanoid Multi-Finger Dexterous Hand"
+      ]
     }
   ],
   "skills": [],
   "languages": [],
-  "interests": [],
+  "interests": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Flexible medical robots",
+        "Surgical robots",
+        "Wearable rehabilitation assistive robots",
+        "Supernumerary robotic limbs",
+        "Exoskeletons",
+        "Mechanism design",
+        "Optimization",
+        "Learning-based control"
+      ]
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Innovative Design of Multi-functional Supernumerary Robotic Limbs with Ellipsoid Workspace Optimization",
+      "publisher": "IEEE Transactions on Robotics",
+      "releaseDate": "2025",
+      "website": "https://ieeexplore.ieee.org/document/11079241",
+      "summary": "Jun Huo, Jian Huang, Jie Zuo, Bo Yang, Zhongzheng Fu, Xi Li, and Samer Mohammed. Vol. 41, pp. 4699-4718."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Variable Impedance Control for Floating-Base Supernumerary Robotic Leg in Walking Assistance",
+      "publisher": "IEEE Robotics and Automation Letters",
+      "releaseDate": "2025",
+      "website": "https://ieeexplore.ieee.org/document/11078877",
+      "summary": "Jun Huo, Kehan Xu, Chengyao Li, Yu Cao, Jie Zuo, Xinxing Chen and Jian Huang. Vol. 10, no. 9, pp. 8698-8705."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Adaptive Gait Assistance for Foot Drop Rehabilitation Based on Uncertainty Fusion of Contra-lateral Limb Information",
+      "publisher": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Kehan Xu, Jun Huo, Yize Zheng, Zixin Chi, Yu Cao, Zhaohui Yang and Jian Huang. Vol. 34, pp. 2337-2348."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Gaze Foot Hybrid Upper Limb Assistive Robotic System: An Innovative Approach to Aid Individuals with Limb Impairments",
+      "publisher": "IEEE Transactions on Biomedical Engineering",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Accepted. doi:10.1109/TBME.2026.3695684."
+    },
+    {
+      "name": "Adaptive Fuzzy Residual Learning Framework for On-Skin Triboelectric Sensor Gesture Recognition",
+      "publisher": "IEEE Transactions on Fuzzy Systems",
+      "releaseDate": "2026",
+      "website": "",
+      "summary": "Accepted. doi:10.1109/TFUZZ.2026.3695771."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "name": "Multi-functional Universal Supernumerary Robotic Limb for Motion Assistance",
+      "event": "Zhejiang University of Technology",
+      "date": "2025-04-01",
+      "location": "Hangzhou, China",
+      "description": "Invited talk"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Multi-functional Universal Supernumerary Robotic Limb for Motion Assistance",
+      "event": "Hunan University",
+      "date": "2026-06-01",
+      "location": "Changsha, China",
+      "description": "Invited talk"
     }
   ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "teaching": [],
+  "portfolio": []
 }
