@@ -3,12 +3,12 @@ title: Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparet
 collection: publications
 category: manuscripts
 permalink: /publication/human-robot-coordination-control-for-sit-to-stand-assistance-in-hemiparetic-patients-with-supernumerary-robotic-leg
-excerpt: Jie Zuo<sup>#</sup>, **Jun Huo**<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>*</sup>
+excerpt: Jie Zuo<sup>#</sup>, **Jun Huo**<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>&#42;</sup>
 date: '2025-01-01'
 venue: IEEE Transactions on Automation Science and Engineering
 publication_year: 2025
 paperurl: https://doi.org/10.1109/TASE.2025.3578594
-citation: Jie Zuo<sup>#</sup>, Jun Huo<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>*</sup>. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 16591-16602, 2025. doi:10.1109/TASE.2025.3578594.
+citation: Jie Zuo<sup>#</sup>, Jun Huo<sup>#</sup>, Xiling Xiao, Yanzhao Zhang and Jian Huang<sup>&#42;</sup>. Human-robot Coordination Control for Sit-to-Stand Assistance in Hemiparetic Patients with Supernumerary Robotic Leg. IEEE Transactions on Automation Science and Engineering, vol. 22, pp. 16591-16602, 2025. doi:10.1109/TASE.2025.3578594.
 ---
 
 
