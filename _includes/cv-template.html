@@ -173,6 +173,13 @@
   </div>
   {% endif %}
   
+  {% for section in cv.additional_sections %}
+  <div class="cv-section">
+    <h2>{{ section.title }}</h2>
+    {{ section.content | markdownify }}
+  </div>
+  {% endfor %}
+
   {% if cv.presentations.size > 0 %}
   <!-- Presentations/Talks -->
   <div class="cv-section">
